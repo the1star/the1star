@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @the1star
 - 👀 I’m interested in ...testautomation
-- 🌱 I’m currently learning ...testcomplete and C#
+- 🌱 I’m currently working on ...testcomplete and C#
 - 💞️ I’m looking to collaborate on ...java and c#
-- 📫 How to reach me ... mail
+- 📫 How to reach me ... d1star@yahoo.com
 
 <!---
 the1star/the1star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
